@@ -5,11 +5,11 @@
 <h1 align="center">Hi 👋, I'm Rafet Ersoy</h1>
 <h3 align="center">A passionate java developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Psychometric Evaluation](https://github.com/RafetJinx?tab=repositories)
+- 🔭 I’m currently working on [Psychometric Evaluation](https://github.com/RafetJinx?tab=repositories) and [patika-projects](https://github.com/RafetJinx/patika-projects)
 
-- 🌱 I’m currently learning **Java Spring & Spring Boot, TypeScript**
+- 🌱 I’m currently learning **Java, Java Spring & Spring Boot, TypeScript**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java or Back-End development**
 
 - 📫 How to reach me **rafet.ersoy.cs@gmail.com**
 
