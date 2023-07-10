@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rafet Ersoy</h1>
 <h3 align="center">A passionate java developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Psychometric Evaluation](https://github.com/RafetJinx?tab=repositories) and [patika-projects](https://github.com/RafetJinx/patika-projects)
+- 🔭 I’m currently working on [psychometric-evaluation](https://github.com/RafetJinx/psychometric-evaluation) and [patika-projects](https://github.com/RafetJinx/patika-projects)
 
 - 🌱 I’m currently learning **Java, Java Spring & Spring Boot, TypeScript**
 
