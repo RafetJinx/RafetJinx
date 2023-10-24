@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafetjinx&" alt="rafetjinx" /></p>
 
-![snake gif](https://github.com/RafetJinx/RafetJinx/blob/output/github-contribution-grid-snake.svg)
