@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [psychometric-evaluation](https://github.com/RafetJinx/psychometric-evaluation) and [patika-projects](https://github.com/RafetJinx/patika-projects)
 
-- 🌱 I’m currently learning **Java, Java Spring & Spring Boot, TypeScript**
+- 🌱 I’m currently learning **Java, Java Spring & Spring Boot**
 
 - 💬 Ask me about **Java or Back-End development**
 
